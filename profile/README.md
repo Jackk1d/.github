@@ -1,4 +1,4 @@
-# Welcome to LayerZero
+# Welcome to LayerZero (L0)
 
 ![banner](/profile/github_cover.png)
 <br></br>
